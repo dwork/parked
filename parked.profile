@@ -33,15 +33,15 @@ function theme_dirtcheapcopies_logo() {
  * Implements hook_block_info()
  */
 function parked_block_info() {
-  $blocks['sponsors'] = array(
-    'info' => t('Sponsored by:'),
+  $blocks['ting'] = array(
+    'info' => t('Ting!'),
     'status' => 1,
     'region' => 'sidebar_second',
     'weight' => '10',
     'cache' => DRUPAL_NO_CACHE,
   );
-  $blocks['ting'] = array(
-    'info' => t('Ting!'),
+  $blocks['sponsors'] = array(
+    'info' => t('Sponsored by:'),
     'status' => 1,
     'region' => 'sidebar_second',
     'weight' => '20',
