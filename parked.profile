@@ -37,14 +37,14 @@ function parked_block_info() {
     'info' => t('Sponsored by:'),
     'status' => 1,
     'region' => 'sidebar_second',
-    'weight' => '20',
+    'weight' => '10',
     'cache' => DRUPAL_NO_CACHE,
   );
   $blocks['ting'] = array(
     'info' => t('Ting!'),
     'status' => 1,
     'region' => 'sidebar_second',
-    'weight' => '10',
+    'weight' => '20',
     'cache' => DRUPAL_NO_CACHE,
   );
   return $blocks;
