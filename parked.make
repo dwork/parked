@@ -29,7 +29,7 @@ projects[parked_bartik][subdir] = "contrib"
 projects[parked_bartik][type] = "theme"
 
 projects[admin_menu][subdir] = contrib
-projects[admin_menu][version] = 3.0-rc3
+projects[admin_menu][version] = 3.0-rc4
 
 projects[adsense][subdir] = contrib
 projects[adsense][version] = 1.2
@@ -38,7 +38,7 @@ projects[boxes][subdir] = contrib
 projects[boxes][version] = 1.1
 
 projects[entity][subdir] = contrib
-projects[entity][version] = 1.4
+projects[entity][version] = 1.5
 
 projects[libraries][subdir] = contrib
 projects[libraries][version] = 2.2
